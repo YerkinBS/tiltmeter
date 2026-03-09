@@ -221,9 +221,12 @@ It showcases:
 
 ## Author
 
-**Yerkin Baizhanov**
+**Yerkin Baizhanov**  
+Data Engineer
 
-- GitHub: [github.com/yerkinbs](https://github.com/yerkinbs)
-- LinkedIn: [linkedin.com/in/yerkabs](https://www.linkedin.com/in/yerkabs/)
-- Telegram: [@yerkabs](https://t.me/fuckufuckinfuck6)
-- Repository: [github.com/yerkabs/tiltmeter](https://github.com/yerkabs/tiltmeter)
+- 🌐 GitHub: https://github.com/yerkinbs  
+- 💼 LinkedIn: https://www.linkedin.com/in/yerkabs/  
+- 💬 Telegram: https://t.me/fuckufuckinfuck6  
+
+Project repository:  
+https://github.com/yerkabs/tiltmeter
