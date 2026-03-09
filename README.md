@@ -67,26 +67,26 @@ High-level flow:
 ```text
 tiltmeter/
 +- backend/
-¦  +- app/
-¦  ¦  +- main.py
-¦  ¦  +- models.py
-¦  ¦  +- db.py
-¦  ¦  +- match_service.py
-¦  ¦  +- dashboard_service.py
-¦  ¦  +- summary_service.py
-¦  ¦  L- ...
-¦  L- Dockerfile
+ï¿½  +- app/
+ï¿½  ï¿½  +- main.py
+ï¿½  ï¿½  +- models.py
+ï¿½  ï¿½  +- db.py
+ï¿½  ï¿½  +- match_service.py
+ï¿½  ï¿½  +- dashboard_service.py
+ï¿½  ï¿½  +- summary_service.py
+ï¿½  ï¿½  L- ...
+ï¿½  L- Dockerfile
 +- frontend/
-¦  +- app/
-¦  ¦  +- page.tsx
-¦  ¦  +- globals.css
-¦  ¦  L- api/[...path]/route.ts
-¦  +- components/
-¦  +- lib/
-¦  ¦  +- api.ts
-¦  ¦  +- types.ts
-¦  ¦  L- ux.ts
-¦  L- package.json
+ï¿½  +- app/
+ï¿½  ï¿½  +- page.tsx
+ï¿½  ï¿½  +- globals.css
+ï¿½  ï¿½  L- api/[...path]/route.ts
+ï¿½  +- components/
+ï¿½  +- lib/
+ï¿½  ï¿½  +- api.ts
+ï¿½  ï¿½  +- types.ts
+ï¿½  ï¿½  L- ux.ts
+ï¿½  L- package.json
 +- docker-compose.yml
 L- README.md
 ```
@@ -221,9 +221,9 @@ It showcases:
 
 ## Author
 
-**Your Name**
+**Yerkin Baizhanov**
 
-- GitHub: <YOUR_GITHUB_URL>
-- LinkedIn: <YOUR_LINKEDIN_URL>
-- Telegram: <YOUR_TELEGRAM_URL>
-- Repository: <YOUR_REPO_URL>
+- GitHub: [github.com/yerkinbs](https://github.com/yerkinbs)
+- LinkedIn: [linkedin.com/in/yerkabs](https://www.linkedin.com/in/yerkabs/)
+- Telegram: [@yerkabs](https://t.me/fuckufuckinfuck6)
+- Repository: [github.com/yerkabs/tiltmeter](https://github.com/yerkabs/tiltmeter)
